@@ -8,9 +8,21 @@
 | **Flow Used** | OpenLane (RTL → GDSII) |
 | **Environment** | GitHub Codespaces |
 -------------------
-| **Custom ALU layout (zoomed-out view)** | ![Custom ALU layout](submission/images/Custom_ALU_layout_(zoomed-out_view).png) |
-|----------------------------------------|----------------------------------------------------------------------------------|
+| **Complete LibreLane Scan** | ![Complete LibreLane Scan](submission/images/Complete_librelane_scan.jpg) |
+|-----------------------------|---------------------------------------------------------------------------|
+
+| **Custom ALU layout (zoomed-out view)** | ![Custom ALU layout](submission/images/Custom%20ALU%20layout%20(zoomed-out%20view).png) |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------|
+
 | **Extraction log + simple_alu layout (Magic side-by-side)** | ![Extraction + Layout](submission/images/Extraction%20log%20+%20simple_alu%20layout%20(Magic%20side-by-side).png) |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
+| **Magic console loading ALU + initial load** | ![Magic console loading](submission/images/Magic%20console%20loading%20ALU%20+%20initial%20load.png) |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+
+| **OpenLane run reports directory view** | ![OpenLane reports directory](submission/images/OpenLane%20run%20reports%20directory%20view.png) |
+|----------------------------------------|----------------------------------------------------------------------------------------------------|
+
 
 ---
 
