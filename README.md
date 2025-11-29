@@ -10,13 +10,8 @@
 -------------------
 | **Custom ALU layout (zoomed-out view)** | ![Custom ALU layout](submission/images/Custom_ALU_layout_(zoomed-out_view).png) |
 |----------------------------------------|----------------------------------------------------------------------------------|
-| **Magic console loading ALU + initial load** | ![Magic console loading](submission/images/Magic_console_loading_ALU_+_initial_load.png) |
-| **Extraction log + simple_alu layout (side-by-side)** | ![Extraction + Layout](submission/images/Extraction_log_+_simple_alu_layout_(side-by-side).png) |
-| **OpenLane run reports directory view** | ![OpenLane reports directory](submission/images/OpenLane_run_reports_directory_view.png) |
-| **Magic layout showing 144 initial DRC errors** | ![Magic DRC 144](submission/images/Magic_layout_initial_DRC_144.png) |
-| **Magic extraction log window** | ![Magic extraction log](submission/images/Magic_extraction_log_window.png) |
-| **Magic layout reload (zoomed)** | ![Magic layout reload](submission/images/Magic_layout_reloaded_zoom.png) |
-* **Screenshot:** ![TKCON DRC Check](submission/images/tkcon_drc_check.png)
+| **Extraction log + simple_alu layout (Magic side-by-side)** | ![Extraction + Layout](submission/images/Extraction%20log%20+%20simple_alu%20layout%20(Magic%20side-by-side).png) |
+
 ---
 
 ## 📘 Project Overview
